@@ -1,7 +1,11 @@
 ---
-title: welcome my blog
-author: kiana
-date: '2021-12-12'
+home: true
+heroImage: /bg.jpg
+heroImageStyle: {
+  maxHeight: '200px',
+  display: block,
+  margin: '6rem auto 1.5rem',
+  borderRadius: '50%',
+  boxShadow: '0 5px 18px rgba(0,0,0,0.2)'
+}
 ---
-# introduce myslef
-sex:girl
